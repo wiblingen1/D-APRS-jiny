@@ -83,7 +83,7 @@ echo "Instalación completa."
 
 ####################
 cd /opt/
-git clone https://github.com/hp3icc/D-APRS.git
+git clone https://github.com/wiblingen1/D-APRS-jiny.git
 
 sudo cat > /bin/menu-igate <<- "EOF"
 #!/bin/bash
